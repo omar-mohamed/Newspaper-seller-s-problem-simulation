@@ -66,7 +66,7 @@ namespace Simulation_task
                 this.dataGridView1.Rows.Add();
                 this.dataGridView1.Rows[i].Cells[0].Value = i + 1;
                 this.dataGridView1.Rows[i].Cells[1].Value = Demandprobabilitydistribution.randomForNewsdayType[i];
-                this.dataGridView1.Rows[i].Cells[3].Value = typeofnewsDay[ Demandprobabilitydistribution.type[i]];
+                this.dataGridView1.Rows[i].Cells[2].Value = typeofnewsDay[ Demandprobabilitydistribution.type[i]];
                 this.dataGridView1.Rows[i].Cells[3].Value = Demandprobabilitydistribution.randomForDemand[i];
                 this.dataGridView1.Rows[i].Cells[4].Value = Demandprobabilitydistribution.FinalDemand[i];
                 this.dataGridView1.Rows[i].Cells[5].Value = revenue[i];

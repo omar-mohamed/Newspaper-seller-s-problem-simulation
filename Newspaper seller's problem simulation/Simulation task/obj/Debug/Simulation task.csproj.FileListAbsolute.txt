@@ -1,0 +1,49 @@
+D:\FCIS\Subjects\Fourth Year-CS\Image processing\Labs\Simulation task\Simulation task\bin\Debug\Simulation task.exe.config
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\bin\Debug\Simulation task.exe.config
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation task.csprojResolveAssemblyReference.cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation_task.Form1.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation_task.Properties.Resources.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation task.csproj.GenerateResource.Cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\bin\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\bin\Debug\Simulation task.pdb
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation task.pdb
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation_task.service_time_dist.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation_task.Inter_arrival_time.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Labs\Simulation task\Simulation task\obj\Debug\Simulation_task.results_table.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\bin\Debug\Simulation task.exe.config
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation task.pdb
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\bin\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\bin\Debug\Simulation task.pdb
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation task.csprojResolveAssemblyReference.cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation_task.Form1.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation_task.Inter_arrival_time.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation_task.Properties.Resources.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation_task.results_table.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation_task.service_time_dist.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 1\Simulation task\obj\Debug\Simulation task.csproj.GenerateResource.Cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.exe.config
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.pdb
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.csprojResolveAssemblyReference.cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Demandprobabilitydistribution.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Distribution_for_type_of_newsday.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Form1.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Properties.Resources.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.results_table.resources
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.csproj.GenerateResource.Cache
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.exe
+D:\FCIS\Subjects\Fourth Year-CS\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.pdb
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.exe.config
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.exe
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.pdb
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.exe
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\bin\Debug\Simulation task.pdb
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.csprojResolveAssemblyReference.cache
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Demandprobabilitydistribution.resources
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Distribution_for_type_of_newsday.resources
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Form1.resources
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.Properties.Resources.resources
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation_task.results_table.resources
+D:\FCIS\Subjects\4th year\Simulation\Tasks\Task 2\Simulation task\obj\Debug\Simulation task.csproj.GenerateResource.Cache

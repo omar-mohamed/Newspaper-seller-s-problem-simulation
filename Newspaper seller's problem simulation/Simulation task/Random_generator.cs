@@ -79,9 +79,9 @@ namespace Simulation_task
         {
             Random rand = new Random(System.DateTime.Now.Millisecond);
             List<int> demand = new List<int>();
-            for (int i = 0; i < ranges[0].Count; i++)
+            for (int i = 0; i < Form1.numOfRows; i++)
             {
-                int X = rand.Next(0, 100);
+                int X = rand.Next(0, 99);
                 random_numbers.Add(X);
                 for (int k = 0; k < ranges[type[i]].Count; k++)
                 {

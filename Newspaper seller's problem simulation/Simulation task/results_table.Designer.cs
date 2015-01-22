@@ -56,7 +56,7 @@
             this.DailyProfit});
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(945, 509);
+            this.dataGridView1.Size = new System.Drawing.Size(948, 567);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -118,7 +118,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(961, 533);
+            this.ClientSize = new System.Drawing.Size(994, 570);
             this.Controls.Add(this.dataGridView1);
             this.Name = "results_table";
             this.Text = "results_table";

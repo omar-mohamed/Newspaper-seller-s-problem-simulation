@@ -26,6 +26,13 @@ namespace Simulation_task
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            results_table.purchase = Convert.ToDouble(textBox2.Text);
+
+            results_table.sellingPrice = Convert.ToDouble(textBox6.Text);
+            results_table.scrap_value = Convert.ToDouble(textBox5.Text);
+            results_table.numOfPapers = Convert.ToInt32(textBox8.Text);
+            numOfRows = Convert.ToInt32(textBox9.Text);
             st = new Distribution_for_type_of_newsday();
             st.BringToFront();
             st.Show();
@@ -39,7 +46,6 @@ namespace Simulation_task
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            results_table.purchase = Convert.ToDouble(textBox2.Text);
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
@@ -50,13 +56,11 @@ namespace Simulation_task
         private void textBox5_TextChanged(object sender, EventArgs e)
         {
 
-            results_table.scrap_value = Convert.ToDouble(textBox5.Text);
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
 
-            results_table.sellingPrice = Convert.ToDouble(textBox6.Text);
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
@@ -67,7 +71,10 @@ namespace Simulation_task
         private void textBox8_TextChanged(object sender, EventArgs e)
         {
 
-            results_table.numOfPapers = Convert.ToInt32(textBox8.Text);
+        }
+
+        private void textBox9_TextChanged(object sender, EventArgs e)
+        {
         }
 
         
